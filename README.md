@@ -59,3 +59,6 @@ This binary search mechanism serves as a baseline. Possible improvements include
 
 ## Reference
 This project was inspired by the paper [**Dynamic clock frequencies for FPGAs**](https://www.sciencedirect.com/science/article/pii/S0141933106000317).  
+
+## Todo
+🔴 Add reinforcement learning to the clock manager. 
